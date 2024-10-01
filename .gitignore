@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Firebase configuration
+android/app/google-services.json
+ios/GoogleService-Info.plist
+
+# macOS
+.DS_Store
+
+# OS-specific caches and temp files
+*.swp
+*.lock
+*.log
+.idea/
+.vscode/
+build/
