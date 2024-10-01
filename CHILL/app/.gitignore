@@ -15,3 +15,7 @@ ios/GoogleService-Info.plist
 .idea/
 .vscode/
 build/
+
+git add .
+
+git commit -m "Initial commit: Chill"

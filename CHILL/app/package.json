@@ -1,0 +1,22 @@
+npm init -y
+npm install @react-native-firebase/app @react-native-firebase/messaging react-native-navigation
+npm install --save react-navigation react-navigation-stack
+
+{
+    "name": "chill",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "@react-native-firebase/app": "^12.1.0",
+      "@react-native-firebase/messaging": "^12.1.0",
+      "react-navigation": "^4.4.4",
+      "react-navigation-stack": "^2.10.4",
+      "react-native-navigation": "^7.9.0"
+    }
+  }
+  
+  git add package.json
+git commit -m "Added dependencies to package.json"
+git push
+
+

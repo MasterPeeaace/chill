@@ -1,0 +1,22 @@
+anti-smartphone-addiction-app/
+│
+├── components/
+│   ├── FocusMode.js
+│   ├── RewardsSystem.js
+│   ├── UsageAlerts.js
+│   └── UsageTracker.js
+│
+├── services/
+│   ├── firebaseConfig.js        # Configuration Firebase
+│   ├── notificationService.js   # Service de notifications push
+│   └── analyticsService.js      # (optionnel) Service d'Analytics Firebase
+│
+├── screens/
+│   ├── HomeScreen.js            # Ecran d'accueil avec navigation
+│   ├── StatsScreen.js           # Ecran de statistiques d'utilisation
+│   ├── FocusScreen.js           # Ecran pour le mode Focus
+│   └── SettingsScreen.js        # Paramètres de l'utilisateur
+│
+├── App.js                       # Point d'entrée de l'app React Native
+├── package.json                 # Dépendances du projet
+└── .gitignore                   # Fichiers à ignorer par Git

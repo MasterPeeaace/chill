@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521594179171",
+    "project_id": "qchillp",
+    "storage_bucket": "qchillp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521594179171:android:969db72c9de593fdddf256",
+        "android_client_info": {
+          "package_name": "com.zizi.chill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Kq8dUBn5M_QAH5NhKzEn1GbnSwcpy3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
